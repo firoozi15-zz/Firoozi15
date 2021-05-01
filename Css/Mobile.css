@@ -1,0 +1,23 @@
+#head{
+    flex-direction: column;
+}
+#ulHead{
+    flex-direction: column;
+}
+#head{
+    height: 180px;
+    padding: 20px;
+    border-bottom-left-radius: 40%;
+}
+#back{
+    display: flex;
+    align-items: flex-start;
+    flex: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 420px;
+    border-radius: 25px;
+}
+.Cover{
+    width: 410px;
+}
